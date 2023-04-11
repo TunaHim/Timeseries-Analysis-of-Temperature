@@ -1,4 +1,4 @@
-# Timeseries-Analysis-of-Tempreature
+# Timeseries-Analysis-of-Temperature
 
 Goal of the project is to Generate a short-term temperature forecast of Berlin Tempelhof, Berlin
 
